@@ -1,2 +1,2 @@
 # Documents
-Everythin
+Everything
